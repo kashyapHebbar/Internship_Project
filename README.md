@@ -17,7 +17,7 @@ In the era of information overload, it's often time-consuming to sift through le
 
 * Python 3.x
 * NLTK - for natural language processing tasks
-* BeautifulSoup - for web scraping tasks (if used)
+* BeautifulSoup - for web scraping tasks 
 
 ## Installation & Usage
 
